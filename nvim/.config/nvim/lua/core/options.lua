@@ -40,4 +40,4 @@ opt.spell     = false
 opt.updatetime = 250
 opt.timeoutlen = 400
 
-vim.cmd.colorscheme("industry")
+-- vim.cmd.colorscheme("industry")
